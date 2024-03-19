@@ -22,9 +22,9 @@ npm i @mtharrison/openai-pricing
 ```
 
 ```ts
-import { greet } from "@mtharrison/openai-pricing";
+import { greet } from '@mtharrison/openai-pricing';
 
-greet("Hello, world! 💖");
+greet('Hello, world! 💖');
 ```
 
 ## Contributors

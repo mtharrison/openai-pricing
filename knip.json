@@ -1,15 +1,15 @@
 {
-	"$schema": "https://unpkg.com/knip@latest/schema.json",
-	"entry": ["src/index.ts!"],
-	"ignoreExportsUsedInFile": {
-		"interface": true,
-		"type": true
-	},
-	"project": ["src/**/*.ts!"],
-	"ignoreDependencies": [
-		"eslint-plugin-deprecation",
-		"eslint-plugin-eslint-comments",
-		"eslint-plugin-jsdoc",
-		"eslint-plugin-regexp"
-	]
+  "$schema": "https://unpkg.com/knip@latest/schema.json",
+  "entry": ["src/index.ts!"],
+  "ignoreExportsUsedInFile": {
+    "interface": true,
+    "type": true
+  },
+  "project": ["src/**/*.ts!"],
+  "ignoreDependencies": [
+    "eslint-plugin-deprecation",
+    "eslint-plugin-eslint-comments",
+    "eslint-plugin-jsdoc",
+    "eslint-plugin-regexp"
+  ]
 }
