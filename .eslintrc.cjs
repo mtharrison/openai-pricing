@@ -28,7 +28,10 @@ module.exports = {
 		{
 			files: "**/*.md/*.ts",
 			rules: {
-				"n/no-missing-import": ["error", { allowModules: ["openai-pricing"] }],
+				"n/no-missing-import": [
+					"error",
+					{ allowModules: ["@mtharrison/openai-pricing"] },
+				],
 			},
 		},
 		{

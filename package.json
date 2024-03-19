@@ -1,5 +1,5 @@
 {
-	"name": "openai-pricing",
+	"name": "@mtharrison/openai-pricing",
 	"version": "0.0.0",
 	"description": "A package you can use for up to date pricing for OpenAI models",
 	"repository": {
@@ -8,6 +8,7 @@
 	},
 	"license": "MIT",
 	"author": {
+		"name": "Matt Harrison",
 		"email": "hi@matt-harrison.com"
 	},
 	"type": "module",

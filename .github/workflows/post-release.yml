@@ -15,7 +15,7 @@ jobs:
             The release is available on:
 
             * [GitHub releases](https://github.com/mtharrison/openai-pricing/releases/tag/{release_tag})
-            * [npm package (@latest dist-tag)](https://www.npmjs.com/package/openai-pricing/v/${{ env.npm_version }})
+            * [npm package (@latest dist-tag)](https://www.npmjs.com/package/@mtharrison/openai-pricing/v/${{ env.npm_version }})
 
             Cheers! 📦🚀
 
