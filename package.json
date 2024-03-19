@@ -1,6 +1,6 @@
 {
   "name": "@mtharrison/openai-pricing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A package you can use for up to date pricing for OpenAI models",
   "repository": {
     "type": "git",
